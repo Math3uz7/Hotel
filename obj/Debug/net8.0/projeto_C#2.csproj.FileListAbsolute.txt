@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\bin\Debug\net8.0\projeto_C#2.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\bin\Debug\net8.0\projeto_C#2.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\bin\Debug\net8.0\projeto_C#2.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\bin\Debug\net8.0\projeto_C#2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\bin\Debug\net8.0\projeto_C#2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\refint\projeto_C#2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\projeto_C#2.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#2\obj\Debug\net8.0\ref\projeto_C#2.dll
